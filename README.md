@@ -26,13 +26,13 @@ Welcome to the "Make Money from Home" web design project! This repository contai
 
 ## Demo
 
-Check out the live demo of the website [here](http://yourwebsite.com).
+Check out the live demo of the website [here](http://eyasutech.com).
 
 ## Technologies Used
 
 - **HTML5**
 - **CSS*
-- **JavaScript
+  //JavaScript/soon/
 
 ## Installation
 
